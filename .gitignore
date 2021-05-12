@@ -1,0 +1,5 @@
+.next
+.env
+node_modules
+nginx/intuitive.cert
+nginx/intuitive.key
